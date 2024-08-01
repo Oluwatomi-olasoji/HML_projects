@@ -1,7 +1,6 @@
 package assignments;
 
 import java.util.*;
-import static java.sql.Types.NULL;
 
 public class CentralTendencyUtil {
 
